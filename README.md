@@ -16,7 +16,7 @@ The Todo List project allows users to add, remove, and search for todos. It stor
 -JavaScript
 
 ### Usage
-1-Enter a todo in the input field and click "Add Todo" to add it to the list.
-2-Click the delete icon next to a todo to remove it from the list.
-3-Use the search input field to filter todos based on the search query.
-4-Click "Clear All Todo" to remove all todos from the list.
+1-Enter a todo in the input field and click "Add Todo" to add it to the list.<br>
+2-Click the delete icon next to a todo to remove it from the list.<br>
+3-Use the search input field to filter todos based on the search query.<br>
+4-Click "Clear All Todo" to remove all todos from the list.<br>
