@@ -16,7 +16,7 @@
 - JavaScript
 
 ### Usage
-1-Enter a todo in the input field and click "Add Todo" to add it to the list.<br>
-2-Click the delete icon next to a todo to remove it from the list.<br>
-3-Use the search input field to filter todos based on the search query.<br>
-4-Click "Clear All Todo" to remove all todos from the list.<br>
+1. Enter a todo in the input field and click "Add Todo" to add it to the list.<br>
+2. Click the delete icon next to a todo to remove it from the list.<br>
+3. Use the search input field to filter todos based on the search query.<br>
+4. Click "Clear All Todo" to remove all todos from the list.<br>
