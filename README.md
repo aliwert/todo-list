@@ -11,9 +11,9 @@
 - Search Todos: Users can search for specific todos using the search input field. The list updates dynamically as the user types in the search query.<br>
 
 ### Technologies Used
--HTML<br>
--Bootstrap<br>
--JavaScript
+- HTML
+- Bootstrap
+- JavaScript
 
 ### Usage
 1-Enter a todo in the input field and click "Add Todo" to add it to the list.<br>
